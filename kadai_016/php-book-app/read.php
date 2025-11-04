@@ -66,7 +66,7 @@ try {
 <body>
     <header>
         <nav>
-            <a href="index.php">書籍管理アプリ</a>
+            <a href="index.php">書籍管理アプリ3</a>
         </nav>
     </header>
     <main>

@@ -16,7 +16,7 @@
 <body>
     <header>
         <nav>
-            <a href="index.php">書籍管理アプリ</a>
+            <a href="index.php">書籍管理アプリ2</a>
         </nav>
     </header>
     <main>
